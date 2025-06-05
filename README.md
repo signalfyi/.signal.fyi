@@ -2,7 +2,7 @@
 
 This repository demonstrates how Signal.fyi generates daily, Git-native compliance artifacts for container-based projects.
 
-An example report teams can expect to see will start from here nested in the same directory structure we will provide for clients with our daily scans. [View compliance.md](compliance/compliance.md)
+An example report teams can expect to see will start from here nested in the same directory structure we will provide for clients with our daily scans. [View Compliance Report](compliance/README.md)
 
 ## 🎯 Purpose
 
