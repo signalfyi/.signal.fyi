@@ -19,7 +19,7 @@ The `.signal.fyi/compliance/` directory contains **everything needed to pass key
 ```
 .signal.fyi/
 └── compliance/
-    ├── compliance.md            ← ✅ One-stop, human-readable summary
+    ├── README.md            ← ✅ One-stop, human-readable summary
     ├── compliance_bundle.zip    ← 🔒 Optional: export everything for audits
     ├── soc2/
     │   └── cc7.1.md             ← SOC 2: Evidence for vulnerability scanning
