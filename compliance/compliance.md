@@ -2,6 +2,8 @@
 
 This repository contains daily compliance evidence for the parent Docker image `python:latest`.
 
+[Download full report as a zip file](compliance_bundle.zip)
+
 ## 📅 Scan Info
 - **Image Digest:** `sha256:...`
 - **Scan Timestamp (UTC):** `2025-06-05T04:00:12Z`

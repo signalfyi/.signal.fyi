@@ -2,6 +2,8 @@
 
 This repository demonstrates how Signal.fyi generates daily, Git-native compliance artifacts for container-based projects.
 
+An example report teams can expect to see will start from here nested in the same directory structure we will provide for clients with our daily scans. [View compliance.md](compliance/compliance.md)
+
 ## 🎯 Purpose
 
 Signal.fyi commits machine-readable and human-readable compliance evidence **directly into source control**. This makes it possible for security, engineering, and compliance teams to operate from a shared source of truth — without dashboards, portals, or context-switching.
