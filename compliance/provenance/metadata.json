@@ -1,0 +1,5 @@
+{
+  "scanned_image": "python:latest@sha256:abc123...",
+  "timestamp": "2025-06-05T13:14:48.981634Z",
+  "scanner": "Trivy v0.50.0"
+}
