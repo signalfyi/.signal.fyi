@@ -1,0 +1,23 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.6",
+  "version": 1,
+  "components": [
+    {
+      "type": "container",
+      "name": "python",
+      "version": "latest",
+      "purl": "pkg:docker/python@latest"
+    }
+  ],
+  "metadata": {
+    "timestamp": "2025-06-05T13:14:48.981503Z",
+    "tools": [
+      {
+        "vendor": "Aqua Security",
+        "name": "Trivy",
+        "version": "0.50.0"
+      }
+    ]
+  }
+}
