@@ -64,7 +64,7 @@ This example tracks `python:latest` as the base image. Every day, Signal.fyi:
 ## 🛠 Tools Used
 
 - [`Trivy`](https://github.com/aquasecurity/trivy) for vulnerability scanning and SBOM generation
-- [`CycloneDX`](https://cyclonedx.org/specification/) v1.6 format for SBOMs
+- [`CycloneDX`](https://cyclonedx.org/) v1.6 format for SBOMs
 - Native GitHub commit trail for verifiable timestamps
 
 ---
@@ -72,7 +72,6 @@ This example tracks `python:latest` as the base image. Every day, Signal.fyi:
 ## 🔜 Coming Next
 
 - Full multi-stage Dockerfile support
-- Git configuration scanning (e.g. open ports, SSH use, root user)
 - VEX + TEA integration for richer context
 - OSCAL and NIST mappings for FedRAMP and beyond
 
