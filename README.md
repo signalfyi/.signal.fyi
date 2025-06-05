@@ -28,9 +28,9 @@ The `.signal.fyi/compliance/` directory contains **everything needed to pass key
     ├── hipaa/
     │   └── 164.308a8.md         ← HIPAA: Security management process
     └── provenance/
-        ├── sbom.json           ← Machine-readable SBOM (CycloneDX v1.6)
-        ├── cve-summary.json    ← Raw CVE data from Trivy
-        └── metadata.json       ← Digest, timestamp, scan tool version
+        ├── sbom.json            ← Machine-readable SBOM (CycloneDX v1.6)
+        ├── cve-summary.json     ← Raw CVE data from Trivy
+        └── metadata.json        ← Digest, timestamp, scan tool version
 ```
 
 ---
